@@ -1,12 +1,10 @@
 # Pandas-Matplotlib-
 Project on Pandas and Matplotlib
 
-Creating dataframe with data with the help of Pandas according to user.
+Creating data of Class 1, Class2 & Class3 Percentage as per User
 
-Ask user to store the data in the dataframe
+Plotting Comparison Plot of every data in single plot using different colours
 
-Storing data as many times it is required
+Comparing the data using Line Plot,Scatter PLot and SubPlot 
 
-Storing dataframe into the memory using syntax
 
-Converting dataframe into.csv files.
